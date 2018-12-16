@@ -1,9 +1,9 @@
 {
   "desktop": {
-    "enabled": true
+    "enabled": false
   },
   "say": {
-    "enabled": true,
+    "enabled": false,
     "voice": "Samantha"
   },
   "twilio": {
@@ -15,6 +15,12 @@
   },
   "slack": {
     "enabled": false,
+    "hookURL": "",
+    "channel": "",
+    "username": ""
+  }
+  "whatsapp": {
+    "enabled": true,
     "hookURL": "",
     "channel": "",
     "username": ""
