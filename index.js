@@ -20,7 +20,6 @@ var store = new Store()
 switch (action) {
   case 'sweep':
     store.sweep()
-    console.log('Sweeping')
     break
   case 'me':
     var input = args.reverse().concat('remind').reverse().join(' ')
