@@ -1,4 +1,4 @@
-# remind-me
+# remind-me: Need Node 6.0.0 to run
 
 A command-line reminder tool that supports natural language dates and times, inspired by Slack's `/remind` feature.
 
